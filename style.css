@@ -1,0 +1,6 @@
+h1 {
+    color: #4CAF50;       /* Makes the text green */
+    font-family: sans-serif; /* Changes the text font */
+    text-align: center;   /* Centers the text on the page */
+    margin-top: 50px;     /* Adds space at the top */
+}
